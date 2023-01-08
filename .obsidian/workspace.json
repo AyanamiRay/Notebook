@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd5861066ee7f6f",
+        "id": "1975bd7b149cc908",
         "type": "tabs",
         "children": [
           {
-            "id": "2b015f8374ae5a53",
+            "id": "b69f42dba78b2dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MPI/MPI.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9cf305e0f03b796c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53a28642c1c4003a",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MPI/MPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MPI/MPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MPI/MPI.md"
               }
             }
           }
@@ -156,6 +149,7 @@
   },
   "active": "180171859a59992f",
   "lastOpenFiles": [
+    "README.md",
     "MPI.md",
     "Git配置.md"
   ]
